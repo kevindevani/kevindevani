@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on something cool 😉;
 - 👯 I’m looking to collaborate on Mobile Application projects.
-- 💬 Ask me about any Mobile App Development related stuff.
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: LinkedIn: [kevindevani](https://www.linkedin.com/in/kevindevani/)
 - ⚡ Fun fact: ⏳
 
