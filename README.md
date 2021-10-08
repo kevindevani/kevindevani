@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 - 🔭 I’m currently working on something cool 😉;
-- 👯 I’m looking to collaborate on Mobile Application projects.
+- 👯 I’m looking to collaborate on Mobile Application projects;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: LinkedIn: [kevindevani](https://www.linkedin.com/in/kevindevani/) 
-- ⚡ Fun fact: keep it simple.
+- 📫 How to reach me: LinkedIn: [kevindevani](https://www.linkedin.com/in/kevindevani/);
+- ⚡ Fun fact: keep it simple;
 
 <!-- ### Connect with me:
 
