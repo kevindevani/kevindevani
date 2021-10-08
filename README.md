@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mobile Application projects.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: LinkedIn: [kevindevani](https://www.linkedin.com/in/kevindevani/) 
-- ⚡ Fun fact: ⏳
+- ⚡ Fun fact: keep it simple.
 
 <!-- ### Connect with me:
 
