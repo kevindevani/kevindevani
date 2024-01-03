@@ -1,4 +1,4 @@
-### 🇮🇳Hola, i'm kevin devani 👋
+### 🇮🇳Hi, i'm kevin devani 👋
 
 <!--
 **kevindevani/kevindevani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
